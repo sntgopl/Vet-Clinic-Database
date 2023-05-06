@@ -23,6 +23,8 @@ INSERT INTO owners (full_name, age)
         ('Dean Winchester', 14),
         ('Jodie Whittaker', 38);
 
+INSERT INTO species (name) VALUES ('Pokemon', 'Digimon');
+
 UPDATE animals
 SET species_id = 
     CASE 
