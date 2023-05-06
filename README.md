@@ -73,10 +73,6 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Currently, we do not have a live version of the project, we will let you know when it is available.
-
 <p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- Getting Started -->
@@ -174,6 +170,6 @@ I'd like to thank Microverse for helping us in the journey to become a Fullstack
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right"><a href="#readme-top">👆</a></p>
