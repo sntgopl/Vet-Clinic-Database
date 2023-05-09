@@ -33,6 +33,8 @@
 - Weight in kg
 ## 🛠 Built With <a name="built-with"></a>
 
+[@kkolade](https://github.com/kkolade)
+[@Cabraham1](https://github.com/Cabraham1)
 
 ### Tech Stack <a name="tech-stack"></a>
 
