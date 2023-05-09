@@ -24,5 +24,11 @@ CREATE TABLE invoice_items (
     quantity INT NOT NULL,
     total_price DECIMAL(10,2) NOT NULL,
     invoice_id INT REFERENCES invoices(id),
-    treatment_id INT REFERENCES treatment(id)
+    treatment_id INT REFERENCES treatments(id)
 );
+
+CREATE TABLE treatments (
+    id SERIAL PRIMARY KEY,
+    type VARCHAR(50) NOT NULL,
+    name VARCHAR(50)
+)
